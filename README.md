@@ -1,0 +1,2 @@
+### Etch-A-Sketch
+This program is a browser version of an Etch-A-Sketch. Most of the styling of the page is done in JavaScript instead of HTML or CSS. Worked heavily with query and element selectors. Prompts the user for a number to indicate the grid width and height. Implemented event listeners in order to change the color of the cells accordingly. There are buttons the user can click in order to change the color of the 'pen.' there is also a clear button to set the background color back to white. 
