@@ -45,7 +45,7 @@ const button= document.querySelectorAll('button');
 button.forEach((button)=>{
 	button.style.width='100px';
 	button.style.height='30px';
-	button.style.borderRadius='5px';
+	button.style.borderRadius='20px';
 	button.style.marginBottom='30px';});
 const cbutton=document.querySelector('#clear');
 cbutton.addEventListener('click', reset);
